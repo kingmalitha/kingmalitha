@@ -29,8 +29,7 @@ I'm a Full Stack Web Developer 💻, IT Undergraduate 🎓, MERN Developer 🧑�
 
 ## 🔭 I'm currently working on
 
-- Airbnb Clone
-- Netflix Clone
+- InternTracker Web Application
 
 ## 🌱 I'm currently learning
 
@@ -44,9 +43,6 @@ I'm a Full Stack Web Developer 💻, IT Undergraduate 🎓, MERN Developer 🧑�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-</br>
-
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,9 +52,6 @@ I'm a Full Stack Web Developer 💻, IT Undergraduate 🎓, MERN Developer 🧑�
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-</br>
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -68,9 +61,6 @@ I'm a Full Stack Web Developer 💻, IT Undergraduate 🎓, MERN Developer 🧑�
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</br>
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
@@ -78,6 +68,7 @@ I'm a Full Stack Web Developer 💻, IT Undergraduate 🎓, MERN Developer 🧑�
 ## 📝 Latest Blog Posts
 
 - [Optimizing Performance with useMemo in React](https://kingmalitha.medium.com/optimizing-performance-with-usememo-in-react-a1d38c651151)
+- [Rendering Patterns in Web development](https://kingmalitha.medium.com/rendering-with-purpose-harnessing-the-right-patterns-for-web-development-a17f124e8cb8)
 
 ## 📈 GitHub Stats
 
